@@ -137,6 +137,24 @@ Other MATLAB scripts used internally by the simulator
 \end_layout
 
 \begin_layout Section
+System requisites
+\end_layout
+
+\begin_layout Standard
+The program runs on any operating system, provided that MATLAB, Simulink
+ and 
+\begin_inset CommandInset href
+LatexCommand href
+name "Peter's Corke Robotic Toolbox"
+target "https://petercorke.com/toolboxes/robotics-toolbox/"
+literal "false"
+
+\end_inset
+
+ are installed.
+\end_layout
+
+\begin_layout Section
 Creating the robot object
 \end_layout
 

@@ -662,7 +662,7 @@ status open
 \align center
 \begin_inset Graphics
 	filename km.png
-	scale 40
+	scale 30
 
 \end_inset
 
